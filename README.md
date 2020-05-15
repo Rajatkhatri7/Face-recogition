@@ -1,6 +1,5 @@
 # Introduction
- Opencv can be used to detect faces in images and videos, can track cars , number_plates etc..
- It can also track moving objects live.
+Face recognition is a crucial security application. Through this project, a very basic form of face recognition has been implemented using the Haar Cascades Classifier, openCV & K-Nearest Neighbors Algorithm.
  
 
 # machine learning and Opencv
