@@ -6,4 +6,4 @@
 # machine learning and Opencv
 In this repository we are using opencv along with machine learning algorithm to classify the different faces by name in the image and in live video.
 
-![](https://github.com/Rajatkhatri7/Face-recogition/blob/master/Face_recognition/Screenshot from 2020-05-15 19-47-29.png)
+![](https://github.com/Rajatkhatri7/Face-recogition/blob/master/Face_recognition/image.png)
