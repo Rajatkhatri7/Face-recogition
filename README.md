@@ -5,3 +5,5 @@
 
 # machine learning and Opencv
 In this repository we are using opencv along with machine learning algorithm to classify the different faces by name in the image and in live video.
+
+![](heroimg.ddffaa3.png)
